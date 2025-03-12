@@ -160,7 +160,7 @@ The API uses standard HTTP status codes to indicate the success or failure of an
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Sreelekha0413/TinyLedgerRepo.git
 ```
 
 Go to the project directory
